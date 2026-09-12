@@ -1,0 +1,8 @@
+raw_videos/
+candidates/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env

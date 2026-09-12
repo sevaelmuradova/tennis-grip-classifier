@@ -1,0 +1,99 @@
+[
+    {
+      "id": "intuitive_tennis",
+      "youtube_url": "https://youtu.be/WEMbmDurvNk?si=-F23vSFO9tHLjDc3",
+      "type": "sectioned",
+      "sections": [
+        {"start": 257, "end": 355, "grip": "continental", "shot_context": "forehand", "notes": "Continental forehand grip"},
+        {"start": 355, "end": 395, "grip": "eastern", "shot_context": "forehand", "notes": "Eastern forehand grip"},
+        {"start": 395, "end": 455, "grip": "semi_western", "shot_context": "forehand", "notes": "Semi-Western forehand grip"},
+        {"start": 455, "end": 524, "grip": "western", "shot_context": "forehand", "notes": "Western forehand grip"},
+        {"start": 745, "end": 758, "grip": "continental", "shot_context": "backhand", "notes": "Continental grip, one-handed backhand"},
+        {"start": 758, "end": 773, "grip": "eastern", "shot_context": "backhand", "notes": "Eastern grip, one-handed backhand"},
+        {"start": 774, "end": 786, "grip": "western", "shot_context": "backhand", "notes": "Western grip, one-handed backhand"}
+      ],
+      "notes": "The Ultimate Tennis Grip Guide | All Strokes All Grips"
+    },
+    {
+      "id": "top_tennis_training",
+      "youtube_url": "https://youtu.be/x2HNuIbmpMM?si=GP6jXoXsNOGqm6Qo",
+      "type": "sectioned",
+      "sections": [
+        {"start": 193, "end": 421, "grip": "eastern", "shot_context": "forehand", "notes": "Eastern forehand grip explained"},
+        {"start": 421, "end": 550, "grip": "semi_western", "shot_context": "forehand", "notes": "Semi-Western forehand grip explained"},
+        {"start": 550, "end": 788, "grip": "western", "shot_context": "forehand", "notes": "Western forehand grip explained"}
+      ],
+      "notes": "Best Tennis Forehand Grip? Eastern vs Semi Western vs Western - Forehand Grips Explained"
+    },
+    {
+      "id": "top_tennis_training_202024",
+      "youtube_url": "https://youtu.be/PDqkmTF65_g?si=OIxlUucw_ujxMzqA",
+      "type": "sectioned",
+      "sections": [
+        {"start": 62, "end": 214, "grip": "eastern", "shot_context": "forehand", "notes": "Eastern forehand grip"},
+        {"start": 214, "end": 300, "grip": "semi_western", "shot_context": "forehand", "notes": "Semi-Western forehand grip"},
+        {"start": 300, "end": 496, "grip": "western", "shot_context": "forehand", "notes": "Western forehand grip"}
+      ],
+      "notes": "Eastern vs Western vs Semi-Western 🎾 Which Tennis Forehand Grip Is BEST For YOU?"
+    },
+    {
+        "id": "racquetFlex",
+        "youtube_url": "https://youtu.be/v2h2ZvGj2UE?si=g2KZhsdKqGNitAYd",
+        "type": "sectioned",
+        "sections": [
+            {"start": 206, "end": 453, "grip": "eastern", "shot_context": "forehand", "notes": "The Eastern grip"},
+            {"start": 453, "end": 634, "grip": "semi_western", "shot_context": "forehand", "notes": "The Semi-Western grip"},
+            {"start": 634, "end": 810, "grip": "western", "shot_context": "forehand", "notes": "Western grip"}
+        ],
+        "notes": "The Eastern vs Semi-Western Forehand Grip: Which Is Better?"
+    },
+    {
+        "id": "online_tennis_instruction",
+        "youtube_url": "https://youtu.be/eRCWkQfPGvg?si=pRDXDuqz6UtNBbWa",
+        "type": "sectioned",
+        "sections": [
+            {"start": 96, "end": 112, "grip": "eastern", "shot_context": "forehand", "notes": "Eastern forehand grip (3)"},
+            {"start": 112, "end": 119, "grip": "semi_western", "shot_context": "forehand", "notes": "Semi-Western grip (4)"},
+            {"start": 119, "end": 148, "grip": "western", "shot_context": "forehand", "notes": "Western grip (4.5/5)"},
+            {"start": 202, "end": 212, "grip": "continental", "shot_context": "serve", "notes": "Continental grip (2)"}
+        ],
+        "notes": "Tennis Grips"
+    },
+    {
+        "id": "tennis_with_coach_alfred",
+        "youtube_url": "https://youtu.be/OsGiH0yS9SQ?si=gLKjmlqWJkZwVCxR",
+        "type": "sectioned",
+        "sections": [
+            {"start": 129, "end": 176, "grip": "eastern", "shot_context": "backhand", "notes": "Eastern backhand"},
+            {"start": 176, "end": 218, "grip": "continental", "shot_context": "backhand", "notes": "Continental grip"},
+            {"start": 218, "end": 261, "grip": "eastern", "shot_context": "forehand", "notes": "Eastern forehand"},
+            {"start": 261, "end": 347, "grip": "semi_western", "shot_context": "forehand", "notes": "Semi-Western forehand"},
+            {"start": 347, "end": 484, "grip": "western", "shot_context": "forehand", "notes": "Western forehand"},
+            {"start": 484, "end": 502, "grip": "semi_western", "shot_context": "backhand", "notes": "Semi-Western backhand"}
+        ],
+        "notes": "Tennis GRIPS Explained: How to Hold a Tennis Racket"
+    },
+    {
+        "id": "total_tennis_domination",
+        "youtube_url": "https://youtu.be/defhZn5sdWQ?si=EE-watqFIvoCyOAr",
+        "type": "single_grip",
+        "grip": "continental",
+        "shot_context": "serve",
+        "notes": "Want A Continental Grip Serve Lesson with Step By Step Drills?"
+    },
+    {
+        "id": "2minute_tennis",
+        "youtube_url": "https://youtu.be/85TTLdfvzPk?si=r1dIYT6cdMCD0q6j",
+        "type": "single_grip",
+        "grip": "continental",
+        "shot_context": "serve",
+        "notes": "How To Serve With A Continental Grip"
+    },
+    {
+        "id": "tennis_companion",
+        "youtube_url": "https://youtu.be/XPeJDlsJ4cY?si=OPSxtCjZw7X4sA95",
+        "type": "single_grip",
+        "grip": "continental",
+        "notes": "Continental Grip in Tennis [Overview & How to Hold]"
+    }
+  ]
